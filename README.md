@@ -195,12 +195,6 @@ If you find this work useful for your research, please cite our paper:
 
 This project is released under the MIT License.
 
----
-
-## 🙋 Contact
-
-For questions or issues, please open an issue on GitHub or contact:  
-**Tianwen Zhang** – [tianwen.zhang@outlook.com]
 
 ---
 
