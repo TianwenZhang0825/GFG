@@ -5,7 +5,6 @@ Official implementation of the paper:
 *(ISPRS Journal of Photogrammetry and Remote Sensing, 2026)*
 
 Authors: Tianwen Zhang, Gui Gao, Xiaoling Zhang  
-📧 Corresponding author: dellar@126.com
 
 ---
 
@@ -201,7 +200,7 @@ This project is released under the MIT License.
 ## 🙋 Contact
 
 For questions or issues, please open an issue on GitHub or contact:  
-**Tianwen Zhang** – [tianwen.zhang@outlook.com](mailto:tianwen.zhang@outlook.com)
+**Tianwen Zhang** – [tianwen.zhang@outlook.com]
 
 ---
 
